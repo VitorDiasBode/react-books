@@ -6,7 +6,7 @@ const Opcoes = styled.ul`
 const Opcao = styled.div`
   min-width: 120px;
   display: flex;
-  font-size: 16;
+  font-size: 16px;
   justify-content: center;
   align-items: center;
   text-align: center;
