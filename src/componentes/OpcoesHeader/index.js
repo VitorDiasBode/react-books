@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 const Opcoes = styled.ul`
-  display: flex;
+  display: flex
 `
 const Opcao = styled.div`
   min-width: 120px;
