@@ -12,7 +12,6 @@ const Card = styled.div`
     justify-content: space-around;
     width: 100%;
 `
-
 const Botao = styled.button`
     background-color: #EB9B00;
     color: #FFF;
@@ -24,7 +23,7 @@ const Botao = styled.button`
     text-align: center;
     width: 150px;
     border-radius: 5px;
-    &hover {
+    &:hover {
         cursor: pointer;
     }
 `
